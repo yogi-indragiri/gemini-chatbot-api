@@ -1,5 +1,7 @@
 # MediChat - Asisten Kesehatan AI
 
+![MediChat Demo](./image/Medichat-chatbot-demo.png)
+
 MediChat adalah aplikasi chatbot spesialis kesehatan yang dikembangkan menggunakan **Google Gemini AI**. Proyek ini merupakan aplikasi latihan untuk **Final Project Hacktiv8: Maju Bareng AI for IT Professional**.
 
 ## 🌟 Fitur Utama
